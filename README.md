@@ -25,7 +25,7 @@
 
 | `/report` - Send a report for assistance from in game admins | | |
 | ------------- |-------------  | -----|
-| `/911a [message]` - Send a call to police with your location          | `/911p [message]` - Send a police report  | `/911e [message]` - Send a call to EMS |
+| `/911a [message]` - Send an anonymous call to police          | `/911p [message]` - Send a police report  | `/911e [message]` - Send a call to EMS |
 
 ---
 
@@ -41,7 +41,7 @@
 
 # Emotes / Walks
 
-| `/walks` - View walking styles - will show in chat | `/e [emote]` - Does the emote - emote names can be find in `/emotemenu` | `/e c` - Cancels the current emote |
+| `/walks` - View walking styles - will show in chat | `/e [emote]` - Does the emote - emote names can be find in `/emotemenu` or `/em` | `/e c` - Cancels the current emote |
 | ------------- |-------------  | -----|
 | `/walk [style]` - Change your walking style |  |  |
 
