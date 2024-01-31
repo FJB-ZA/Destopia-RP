@@ -17,7 +17,7 @@
 | ------------- |-------------  | -----|
 | `/hide` - Hide chat      | `I` - Opens menu to edit the HUD | `/propfix` - Use to remove any props that may be stuck to you |
 | `/streamermode` - Disable and enable music in game. Helpful to avoid copyrighted music in city     | `/rob` - Rob a player     |   `Caps Lock` - Speak on radio |
-| `Left Ctrl` - Cycle between standing, crouching or crawling | `X` - Raise or lower your hands      | `Z` - Show/hide first 6 slots of inventory
+| `Left Ctrl` - Cycle between standing, crouching or crawling | `H` - Raise or lower your hands      | `Z` - Show/hide first 6 slots of inventory
 
 ---
 
